@@ -1,0 +1,2 @@
+# njust-cctd_machinewear_classifier
+njust-cctd_machinewear_classifier_resnet
